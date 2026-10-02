@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AyuTRAC
 
 **Clinical Trials Management System for Ayurveda Research**  
@@ -49,3 +50,6 @@ psql -d ayutrac -f database/seed.sql
 ```
 
 Set `DATABASE_URL=postgresql://postgres:postgres@localhost:5432/ayutrac` for the backend. The production deployment should supply managed credentials, TLS, SSO/MFA identity integration, and object storage encryption keys through a secret manager.
+=======
+# AYUTRAC
+>>>>>>> 5ac14a67f4c3565da575b8b54c3493d10b882273
